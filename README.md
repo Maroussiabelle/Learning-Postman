@@ -13,3 +13,4 @@ Each request in the collection is accompanied by JavaScript tests written with P
 This collection is purely for educational purposes and uses Dummy API to simulate a real-world API.
 
 
+![img.png](img.png)
